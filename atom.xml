@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://chilinkee.github.io/chilinkee/</id>
+    <id>https://chilinkee.github.io</id>
     <title>cheerlin</title>
-    <updated>2021-04-17T03:41:49.725Z</updated>
+    <updated>2021-04-17T04:11:12.403Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://chilinkee.github.io/chilinkee/"/>
-    <link rel="self" href="https://chilinkee.github.io/chilinkee/atom.xml"/>
+    <link rel="alternate" href="https://chilinkee.github.io"/>
+    <link rel="self" href="https://chilinkee.github.io/atom.xml"/>
     <subtitle>严玲玉的个人博客2021。</subtitle>
-    <logo>https://chilinkee.github.io/chilinkee/images/avatar.png</logo>
-    <icon>https://chilinkee.github.io/chilinkee/favicon.ico</icon>
+    <logo>https://chilinkee.github.io/images/avatar.png</logo>
+    <icon>https://chilinkee.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, cheerlin</rights>
     <entry>
         <title type="html"><![CDATA[2021作品集]]></title>
-        <id>https://chilinkee.github.io/chilinkee/post/2021-zuo-pin-ji/</id>
-        <link href="https://chilinkee.github.io/chilinkee/post/2021-zuo-pin-ji/">
+        <id>https://chilinkee.github.io/post/2021-zuo-pin-ji/</id>
+        <link href="https://chilinkee.github.io/post/2021-zuo-pin-ji/">
         </link>
         <updated>2021-04-17T03:27:28.000Z</updated>
-        <content type="html"><![CDATA[<p><img src="https://chilinkee.github.io/chilinkee//post-images/1618630153266.png" alt="" loading="lazy"><br>
-<img src="https://chilinkee.github.io/chilinkee//post-images/1618630171329.png" alt="" loading="lazy"><br>
-<img src="https://chilinkee.github.io/chilinkee//post-images/1618630181333.png" alt="" loading="lazy"><br>
-<img src="https://chilinkee.github.io/chilinkee//post-images/1618630189527.png" alt="" loading="lazy"></p>
+        <content type="html"><![CDATA[<p><img src="https://chilinkee.github.io/post-images/1618630153266.png" alt="" loading="lazy"><br>
+<img src="https://chilinkee.github.io/post-images/1618630171329.png" alt="" loading="lazy"><br>
+<img src="https://chilinkee.github.io/post-images/1618630181333.png" alt="" loading="lazy"><br>
+<img src="https://chilinkee.github.io/post-images/1618630189527.png" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
 </feed>
