@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://chilinkee.github.io</id>
     <title>cheerlin</title>
-    <updated>2021-04-22T03:47:55.113Z</updated>
+    <updated>2021-05-04T10:07:39.430Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://chilinkee.github.io"/>
     <link rel="self" href="https://chilinkee.github.io/atom.xml"/>
@@ -11,20 +11,18 @@
     <icon>https://chilinkee.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, cheerlin</rights>
     <entry>
-        <title type="html"><![CDATA[1]]></title>
+        <title type="html"><![CDATA[使用说明]]></title>
         <id>https://chilinkee.github.io/post/1/</id>
         <link href="https://chilinkee.github.io/post/1/">
         </link>
         <updated>2021-04-22T03:33:56.000Z</updated>
         <summary type="html"><![CDATA[<!-- more -->
 <p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...<br>
-<img src="https://chilinkee.github.io/post-images/1619062862222.jpg" alt="" loading="lazy"></p>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
 ]]></summary>
         <content type="html"><![CDATA[<!-- more -->
 <p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...<br>
-<img src="https://chilinkee.github.io/post-images/1619062862222.jpg" alt="" loading="lazy"></p>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
 <!-- more -->
 <p><a href="https://github.com/getgridea/gridea">Github</a><br>
 <a href="https://gridea.dev/">Gridea 主页</a><br>
@@ -48,16 +46,29 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[心情]]></title>
+        <title type="html"><![CDATA[2021作品集]]></title>
         <id>https://chilinkee.github.io/post/xin-qing/</id>
         <link href="https://chilinkee.github.io/post/xin-qing/">
         </link>
         <updated>2021-04-19T03:40:35.000Z</updated>
+        <summary type="html"><![CDATA[<!-- more -->
+<p><img src="https://chilinkee.github.io/post-images/1620122522413.jpg" alt="" loading="lazy"><br>
+<img src="https://chilinkee.github.io/post-images/1620122576053.jpg" alt="" loading="lazy"><br>
+<img src="https://chilinkee.github.io/post-images/1620122583976.jpg" alt="" loading="lazy"></p>
+]]></summary>
         <content type="html"><![CDATA[<!-- more -->
-<p>哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈</p>
-<h2 id="特性">特性</h2>
-<p>11111111111111<br>
-<img src="https://chilinkee.github.io/post-images/1619063257127.jpg" alt="" loading="lazy"></p>
+<p><img src="https://chilinkee.github.io/post-images/1620122522413.jpg" alt="" loading="lazy"><br>
+<img src="https://chilinkee.github.io/post-images/1620122576053.jpg" alt="" loading="lazy"><br>
+<img src="https://chilinkee.github.io/post-images/1620122583976.jpg" alt="" loading="lazy"></p>
+<!-- more -->
+<h2 id="可视化项目">可视化项目</h2>
+<p>视频监控综合系统<br>
+<img src="https://chilinkee.github.io/post-images/1620122619995.jpg" alt="" loading="lazy"><br>
+<img src="https://chilinkee.github.io/post-images/1620122632957.jpg" alt="" loading="lazy"><br>
+<img src="https://chilinkee.github.io/post-images/1620122642802.jpg" alt="" loading="lazy"><br>
+<img src="https://chilinkee.github.io/post-images/1620122650311.jpg" alt="" loading="lazy"><br>
+<img src="https://chilinkee.github.io/post-images/1620122658028.jpg" alt="" loading="lazy"><br>
+<img src="https://chilinkee.github.io/post-images/1620122667236.jpg" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
 </feed>
