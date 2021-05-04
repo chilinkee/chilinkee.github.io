@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://chilinkee.github.io</id>
     <title>cheerlin</title>
-    <updated>2021-05-04T10:29:16.295Z</updated>
+    <updated>2021-05-04T10:32:09.842Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://chilinkee.github.io"/>
     <link rel="self" href="https://chilinkee.github.io/atom.xml"/>
@@ -56,9 +56,6 @@
 ]]></summary>
         <content type="html"><![CDATA[<!-- more -->
 <figure data-type="image" tabindex="1"><img src="https://chilinkee.github.io/post-images/1620122522413.jpg" alt="" loading="lazy"></figure>
-<!-- more -->
-<p><img src="https://chilinkee.github.io/post-images/1620122576053.jpg" alt="" loading="lazy"><br>
-<img src="https://chilinkee.github.io/post-images/1620122583976.jpg" alt="" loading="lazy"></p>
 <!-- more -->
 <h2 id="可视化项目">可视化项目</h2>
 <p>视频监控综合管理系统</p>
